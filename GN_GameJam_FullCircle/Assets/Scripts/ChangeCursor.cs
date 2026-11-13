@@ -14,4 +14,12 @@ public class ChangeCursor : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
     {
         CursorController.Instance.SetToMode(CursorController.ModeOfCursor.Default);
     }
+
+    private void OnDisable()
+    {
+        if (CursorController.Instance != null)
+        {
+            CursorController.Instance.SetToMode(CursorController.ModeOfCursor.Default);
+        }
+    }
 }
