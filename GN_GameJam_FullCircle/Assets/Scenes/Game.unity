@@ -435,7 +435,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 549fb46e909336c4b9d572d86f39f713, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.14
+  m_Volume: 0.851
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -532,7 +532,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 1a4ff4c49234bc04baa205deef59afd0, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.596
+  m_Volume: 0.092
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -663,7 +663,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 6c45b37ab289d1c4ebc957250f1f3c69, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.339
+  m_Volume: 0.877
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -795,7 +795,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: a2c068c676ce2514bbb10377685d67c6, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.634
   m_Pitch: 0.98
   Loop: 0
   Mute: 0
@@ -892,7 +892,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: d258f7d7c0f0e0a45a656ba2cabe7e63, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.2
+  m_Volume: 0.662
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1154,7 +1154,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 8a3b02451e94f9a41b0c58d6120cea7d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.664
+  m_Volume: 0.845
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1251,7 +1251,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 12182a4d034eb164389a9046b612608d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.604
+  m_Volume: 0.028
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1382,7 +1382,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: e6e9c1acf2c914c4b9121bce6aa2d587, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.774
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2218,7 +2218,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: d20e8eb153472c74b94de0eb2f76104a, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.423
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2315,7 +2315,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: cb169b09804ee064d8027300f5d1fc3d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.185
+  m_Volume: 0.711
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2635,7 +2635,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 8d8d9ffef4e051943b1b6015ea6504d8, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.05
+  m_Volume: 0.669
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2732,7 +2732,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 79bde5f3c1df71a47a9182d081c8cf6e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.589
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3143,7 +3143,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 243875281d9c1ed449fd4ca0fdba51a9, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.599
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3948,7 +3948,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 8236b5fd2c306ae4cbc84241c7d1458e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.08
+  m_Volume: 0.181
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -4365,7 +4365,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: f100029e29aa01042814ae1052aaeb7d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.45
+  m_Volume: 0.711
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -5201,7 +5201,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: d258f7d7c0f0e0a45a656ba2cabe7e63, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.207
+  m_Volume: 0.387
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -5298,7 +5298,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 35b91f294bfca524f9859ecc17de6396, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.379
+  m_Volume: 0.077
   m_Pitch: 0.58
   Loop: 0
   Mute: 0
@@ -6460,7 +6460,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: bf6111459571d9947bf0a4bf08af79dd, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.406
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -6779,7 +6779,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 316dc355c9cbc8849989fba775e27b09, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.559
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -7815,7 +7815,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 482bef674bfc44c49acc8b03b7b20869, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.648
   m_Pitch: 1
   Loop: 1
   Mute: 0
