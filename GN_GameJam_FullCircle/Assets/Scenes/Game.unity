@@ -179,12 +179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -212,6 +206,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &23642040
 SpriteRenderer:
   serializedVersion: 2
@@ -537,12 +532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -570,6 +559,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &266889543
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2141,12 +2131,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -2174,6 +2158,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &533811460
 SpriteRenderer:
   serializedVersion: 2
@@ -2580,12 +2565,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -2613,6 +2592,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &647716665
 SpriteRenderer:
   serializedVersion: 2
@@ -3052,12 +3032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -3085,6 +3059,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &801946881
 SpriteRenderer:
   serializedVersion: 2
@@ -4321,12 +4296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -4354,6 +4323,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!114 &1178704624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5035,12 +5005,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -5068,6 +5032,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1412036336
 SpriteRenderer:
   serializedVersion: 2
@@ -5416,12 +5381,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -5449,6 +5408,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1439445980
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5742,12 +5702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -5775,6 +5729,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1521347814
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5930,12 +5885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -5963,6 +5912,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1551252935
 SpriteRenderer:
   serializedVersion: 2
@@ -6118,12 +6068,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -6151,6 +6095,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1625451809
 SpriteRenderer:
   serializedVersion: 2
@@ -6627,12 +6572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -6660,6 +6599,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1659475908
 SpriteRenderer:
   serializedVersion: 2
@@ -6897,12 +6837,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -6930,6 +6864,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!114 &1697554672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7130,12 +7065,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -7163,6 +7092,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1809285238
 SpriteRenderer:
   serializedVersion: 2
@@ -7282,12 +7212,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -7315,6 +7239,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1845633260
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7470,12 +7395,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -7503,6 +7422,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1876222853
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7729,6 +7649,135 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1899898176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1899898178}
+  - component: {fileID: 1899898177}
+  m_Layer: 0
+  m_Name: MouseAudioHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1899898177
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899898176}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 9790d1f2a8d86ab46af0a0b4f19c292a, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1899898178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899898176}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.20154, y: -0.23073, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1909414359
 GameObject:
   m_ObjectHideFlags: 0
@@ -7789,12 +7838,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -7822,6 +7865,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1909414363
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8376,12 +8420,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -8409,6 +8447,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!58 &1979516272
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8645,12 +8684,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -8666,6 +8699,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &1992340740
 SpriteRenderer:
   serializedVersion: 2
@@ -9367,12 +9401,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b2da5616525c445ad124b99c114b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionScript
-  enteredTrigger:
-    m_PersistentCalls:
-      m_Calls: []
-  exitedTrigger:
-    m_PersistentCalls:
-      m_Calls: []
   interacted:
     m_PersistentCalls:
       m_Calls:
@@ -9400,6 +9428,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  mouseClickAudio: {fileID: 1899898177}
 --- !u!212 &2143398480
 SpriteRenderer:
   serializedVersion: 2
@@ -9523,3 +9552,4 @@ SceneRoots:
   - {fileID: 1635722941}
   - {fileID: 57342431}
   - {fileID: 1448752410}
+  - {fileID: 1899898178}
